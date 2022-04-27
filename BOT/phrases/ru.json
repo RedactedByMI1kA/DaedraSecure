@@ -1,0 +1,12 @@
+{
+  "default": {
+    "bot_started": "Бот {bot.user} успешно запущен"
+  },
+  "registration": {
+    "title_fmt": "Новый человек",
+    "description_fmt": "{member.mention}",
+    "user_id_name": "UserID",
+    "call_name": "Обращение",
+    "number": "Номер"
+  }
+}
